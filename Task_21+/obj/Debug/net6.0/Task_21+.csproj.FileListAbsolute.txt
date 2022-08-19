@@ -1,0 +1,15 @@
+E:\Frontend\C#_3Sem_DZ\Task_21+\bin\Debug\net6.0\Task_21+.exe
+E:\Frontend\C#_3Sem_DZ\Task_21+\bin\Debug\net6.0\Task_21+.deps.json
+E:\Frontend\C#_3Sem_DZ\Task_21+\bin\Debug\net6.0\Task_21+.runtimeconfig.json
+E:\Frontend\C#_3Sem_DZ\Task_21+\bin\Debug\net6.0\Task_21+.dll
+E:\Frontend\C#_3Sem_DZ\Task_21+\bin\Debug\net6.0\Task_21+.pdb
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\Task_21+.csproj.AssemblyReference.cache
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\Task_21+.GeneratedMSBuildEditorConfig.editorconfig
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\Task_21+.AssemblyInfoInputs.cache
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\Task_21+.AssemblyInfo.cs
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\Task_21+.csproj.CoreCompileInputs.cache
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\Task_21+.dll
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\refint\Task_21+.dll
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\Task_21+.pdb
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\Task_21+.genruntimeconfig.cache
+E:\Frontend\C#_3Sem_DZ\Task_21+\obj\Debug\net6.0\ref\Task_21+.dll
